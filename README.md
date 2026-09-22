@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hero.png" alt="Khwarizmi — AI Database Intelligence" width="100%">
+</p>
+
 # Khwarizmi | خَوَارِزْمِيّ
 ## AI Database Intelligence & Governed Automation
 
