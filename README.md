@@ -3,6 +3,13 @@
 </p>
 
 # Khwarizmi | خَوَارِزْمِيّ
+
+
+### Technology Snapshot
+
+**Java • Multi-Database Metadata • Local LLM • LM Studio • Ollama • SQL • Governed Automation**
+
+**Focus:** AI Agent • Database Intelligence • Semantic Layer • On-Premise AI
 ## AI Database Intelligence & Governed Automation
 
 > **Understand the database. Discover the business. Build faster.**
